@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.tituloLogo {
+  color: darkred;
+  font-family: 'Pacifico', cursive;
+}
+
+.imagem-carrossel {
+  height: 400px;
+  object-fit: cover;
+  object-position: 0 80%;
+}
+
+.tituloCarrossel {
+  font-family: 'Pacifico', cursive;
+}
+
+.tituloReceitas {
+  color: darkred;
+  font-family: 'Pacifico', cursive;
+}
+
+.cardReceita {
+  border-color: darkred;
+  height: 100%;
+  max-width: 18rem;
+}
+
+.cardReceita__imagem {
+  height: 200px;
+  object-fit: cover;
+}
+
+.botaoPersonalizado {
+  background-color: darkred;
+  color: white;
+}
+.botaoPersonalizado:hover {
+  background-color: rgb(102, 1, 1);
+  color: white;
+}
